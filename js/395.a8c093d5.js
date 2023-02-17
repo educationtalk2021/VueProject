@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkspa_project"]=self["webpackChunkspa_project"]||[]).push([[395],{3395:function(n,t,c){c.r(t),c.d(t,{default:function(){return f}});var a=c(3396);const e={class:"contact"},r=(0,a._)("h1",null,"This is an Contact page",-1),s=[r];function u(n,t){return(0,a.wg)(),(0,a.iD)("div",e,s)}var o=c(89);const i={},p=(0,o.Z)(i,[["render",u]]);var f=p}}]);
+//# sourceMappingURL=395.a8c093d5.js.map
